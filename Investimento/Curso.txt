@@ -1,0 +1,32 @@
+Investimento_Curso :
+
+Associdados Amazon 
+Amazon 
+Nubank
+Nuvest 
+Investidor10
+StatusInvest
+Avenue
+Binance
+
+Formas :
+
+Fundo imobiliário 40%
+Renda Fixa 20%
+Ações 20%
+Exterior 15%
+Criptomoeda 5%
+
+Renda Variável > Ações
+CPTS11 
+VGHF11
+CEMIG
+ITAUSA
+LVBI11
+
+Rend Fixa > Tesouro Direto
+Tesouro Direto Selic 2029
+
+Expressões :
+
+CRI = Emprestar dinheiro pra Financiamentos Imobiliários

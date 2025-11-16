@@ -1,0 +1,50 @@
+Salario base: R$ 7.000,00
+
+Faixa do salario base: Salario do colaborar x Aliquota IRRF
+R$ 7.000 x 27,5% = R$ 192.500
+
+Resultado ? Parcela a ser deduzida
+R$ 336 ? 106,59 = 229,41
+
+Desconto do INSS: R$ 229,41
+
+Nesse caso a base do IRRF sera de 2.800,00 ? 229,41 = 2.570,59
+
+Nesse caso a faixa sera de 7,50%. O calculo ficara assim:
+
+Salario base: R$ 2.800,00
+
+Desconto do INSS: 229,41
+
+Calculamos o valor com a faixa de desconto correspondente:
+
+2.570,59 x 7,5% = 192,80
+
+Subtraimos do valor a parcela a ser deduzida de acordo com a faixa: 
+
+192.80 ? 159,44 (parcela a ser deduzida para a faixa) = R$ 33,36
+
+Valor do desconto do IRRF: R$ 33,36
+-----------------------------
+Salario base: R$ 2.800,00
+
+Salario do colaborar x Aliquota INSS
+R$ 2.800 x 12% = R$ 336
+
+Aliquota INSS - Parcela INSS 
+R$ 336 ? 106,59 = 229,41
+Desconto do INSS: R$ 229,41
+
+Base do IRRF : Salario - Desconto INSS
+2.800,00 ? 229,41 = 2.570,59
+
+Base : De R$ 2.259,21 a R$ 2.828,65	7,50%	R$ 169,44
+Desconto INSS * Aliquota = Parcela IRRF
+2.570,59 x 7,5% = 192,80
+
+Parcela IRFF - Parcela mensal IRFF = Desconto IRRF
+192.80 ? 159,44 = R$ 33,36
+Valor do desconto do IRRF: R$ 33,36
+
+Desconto INSS - Desconto IRRF = Salario total
+2.570,59 - 33,36 = 2.537,23
